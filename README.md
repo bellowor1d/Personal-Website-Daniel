@@ -35,9 +35,13 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
+```How to check the website?
+CLICK the link of "index.html"
+```
+
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+If you want to contact me you can reach me at [Gmail](ccc34cc@gmail.com).
 
 ## License
 
