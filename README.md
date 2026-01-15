@@ -35,7 +35,8 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-```How to check the website?
+How to check the website?
+```
 CLICK the link of "index.html"
 ```
 
